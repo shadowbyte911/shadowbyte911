@@ -17,7 +17,7 @@ Software developer and AI engineer with 5 years of specialized experience in Pyt
 
 ## Software Engineering
 
-    Languages: Python (3 years), C++, C#, Java, HTML/CSS
+    Languages: Python, C++, C#, Java, HTML/CSS
 
     Game Development: Unity and Godot engine proficiency for 2D game development
 
