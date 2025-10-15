@@ -3,8 +3,8 @@
 ## Electrical-Mechanical Engineering Student | AI Developer & Software Engineer
 ## Professional Summary
 
-Software developer and AI engineer with 3 years of specialized experience in Python development, machine learning implementation, and full-stack project delivery. Focused on building robust, production-ready systems with emphasis on performance optimization and practical applications.
-## Core Competencies
+Software developer and AI engineer with 5 years of specialized experience in Python development, machine learning implementation, and full-stack project delivery. Focused on building robust, production-ready systems with emphasis on performance optimization and practical applications.
+## Core Competencies:
 ## Artificial Intelligence & Machine Learning
 
     
@@ -33,7 +33,7 @@ Software developer and AI engineer with 3 years of specialized experience in Pyt
 
     Data-driven decision making and analytical problem solving
 
-## Featured Projects
+## Featured Projects :
 ## Computer Vision & Security Systems
 
 ## YOLO Facial Recognition
@@ -53,7 +53,6 @@ Software developer and AI engineer with 3 years of specialized experience in Pyt
     Performance-optimized decryption algorithms
 
 ## Game Development & AI Integration
-
 ## AI Chess Engine
 
     Stockfish integration with custom interface
