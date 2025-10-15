@@ -1,5 +1,5 @@
-## Hi there 👋
-## Professional Portfolio - [Your Name]
+
+## Professional Portfolio 
 ## Electrical-Mechanical Engineering Student | AI Developer & Software Engineer
 ## Professional Summary
 
